@@ -44,7 +44,7 @@ All packages include [Obeliskial Essentials](https://across-the-obelisk.thunders
 * Some poetry.
 * ~200 event options for new heroes.
 * A new foe.
-* A cursed stone that whispers of glory despair.
+* A cursed stone that whispers of glory and despair.
 * A prophecy.
 
 ## Support
