@@ -49,4 +49,4 @@ All packages include [Obeliskial Essentials](https://across-the-obelisk.thunders
 
 ## Support
 
-Open a github issue or ping @stiffmeds or @DudeManBroFoSho in the **#modding** channel of the [official Across the Obelisk Discord](https://discord.gg/across-the-obelisk-679706811108163701).
+Open a github issue or make a post in the **modding #support-and-requests** channel of the [official Across the Obelisk Discord](https://discord.gg/across-the-obelisk-679706811108163701).
