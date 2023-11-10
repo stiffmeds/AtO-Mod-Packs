@@ -3,6 +3,7 @@
 Fast Install packs of custom content for Across the Obelisk, containing everything you need to begin playing in as few steps as possible.
 
 ## Installation
+
 1. Look at the **Versions** table below and click the link to download the content you want.
 2. In Steam, right-click Across the Obelisk and select _Manage_->_Browse local files_.
 3. Extract the archive into the game folder. 
@@ -10,6 +11,7 @@ Fast Install packs of custom content for Across the Obelisk, containing everythi
 5. Press F5 to open/close the Config Manager and F1 to show/hide mod version information.
 
 ## Versions
+
 All packages include [Obeliskial Essentials](https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Essentials/) and [Obeliskial Content](https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Content/) (which are required for custom content).
 
 | Fast Install Package Description                                                                                | Download Link |
@@ -28,7 +30,7 @@ All packages include [Obeliskial Essentials](https://across-the-obelisk.thunders
 * A new “optimal” route through Act 1 that offers equivalent power progression to the traditional Betty -> Hatch -> Yogger route.
 * The alternative “optimal” route begins at the “The Fishing Contest” event which spawns at the southern path lake node in Senenthia. That event is now rare (blue) and can now start a quest for…
 * A new subzone! Which contains…
-* New subzone art
+  * New subzone art
   * 9 new enemies with custom skins and 171 new monster cards (to represent all difficulty levels)
   * 3 rotating minibosses (12 new enemies in total!) in the new subzone, each with custom skins and abilities.
   * 3 new items
