@@ -50,3 +50,7 @@ All packages include [Obeliskial Essentials](https://across-the-obelisk.thunders
 ## Support
 
 Open a github issue or make a post in the **modding #support-and-requests** channel of the [official Across the Obelisk Discord](https://discord.gg/across-the-obelisk-679706811108163701).
+
+## Developers
+
+Want to add your mod pack to this repository? Ping/message @stiffmeds.
