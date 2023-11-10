@@ -6,7 +6,7 @@ Fast Install packs of custom content for Across the Obelisk, containing everythi
 
 1. Look at the **Versions** table below and click the link to download the content you want.
 2. In Steam, right-click Across the Obelisk and select _Manage_->_Browse local files_.
-3. Extract the archive into the game folder. 
+3. Extract the archive into the game folder. Your _Across the Obelisk_ folder should now contain a _BepInEx_ folder and a _doorstop\_libs_ folder.
 5. Run the game. If everything runs correctly, you will see this mod in the list of registered mods on the main menu.
 5. Press F5 to open/close the Config Manager and F1 to show/hide mod version information.
 
